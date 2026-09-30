@@ -1,0 +1,10 @@
+{
+  "name": "matozus-hamburgueria",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site estático da Matozu's Hamburgueria",
+  "scripts": {
+    "dev": "node dev-server.js",
+    "build": "node build.js"
+  }
+}
